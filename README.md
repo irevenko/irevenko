@@ -1,4 +1,3 @@
-###  😁 Happy you're browsing my profile
-💘 Open Source Lover | 🎒 Student | 🏐 Volleyball Player <br> <br>
+###  💘 Open Source Lover | 🎒 Student | 🏐 Volleyball Player
 <img align="center" src="https://github-readme-7ma7X.vercel.app/api?username=irevenko&show_icons=true&theme=gruvbox" /> 
 
