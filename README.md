@@ -1,1 +1,2 @@
-<img align="center" src="https://github-readme-stats-eta.vercel.app/api?username=irevenko&show_icons=true&hide_border=true" /> 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irevenko&repo=top-coins)](https://github.com/irevenko/top-coins)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irevenko&repo=rectangle-animation)](https://github.com/irevenko/rectangle-animation)
