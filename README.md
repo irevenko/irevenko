@@ -1,3 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username=irevenko" alt="irevenko"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irevenko)](https://github.com/anuraghazra/github-readme-stats)
+💬 Discord: <b>Ilya Revenko#4742</b> feel free to chat
