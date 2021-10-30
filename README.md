@@ -1,1 +1,1 @@
-💬 Discord: <b>Ilya Revenko#4742</b> talk to me ༼ つ ◕_◕ ༽つ
+💬 Discord: <b>_Zen_#8361</b> talk to me ༼ つ ◕_◕ ༽つ
